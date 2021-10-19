@@ -1,0 +1,43 @@
+body {
+    background-color: #333333;
+    color: #faebd7;
+}
+
+.cntBody {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1 {
+    margin: 0;
+}
+
+hr {
+    width: 80%;
+}
+
+.col1 {
+    width: 120px;
+}
+
+th {
+    background-color: #756d62;
+    color: #ffffff;
+    padding: 0.5em;
+}
+
+td {
+    background-color: #f8e4ca;
+    color: #000000;
+    padding: 0.5em;
+}
+
+.cntImage {
+    margin-top: 1em;
+    width: 800px;
+}
+
+.cntImage-Image {
+    max-width: 100%;
+}
